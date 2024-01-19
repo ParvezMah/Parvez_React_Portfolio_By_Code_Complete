@@ -1,10 +1,11 @@
 import styles from './App.module.css'
+import Navbar from './Components/Navbar/Navbar'
 
 function App() {
   return (
-    <>
-      <h1 className={styles.App}>This is my Portfolio</h1>
-    </>
+    <div className={styles.App}>
+      <Navbar></Navbar>
+    </div>
   )
 }
 
