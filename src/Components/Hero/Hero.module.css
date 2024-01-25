@@ -90,3 +90,14 @@ margin: 5% 10%;
     filter: blur(100px);
     z-index: 0;
 }
+
+@media screen and (max-width: 830px) {
+    .container{
+        flex-direction: column-reverse;
+    }
+    
+    .content{
+        align-items: center;
+        text-align: center;
+    }
+}
