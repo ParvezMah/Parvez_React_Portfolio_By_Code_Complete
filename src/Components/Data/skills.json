@@ -1,0 +1,34 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "https://i.ibb.co/JxzX5LK/html-logo.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "https://i.ibb.co/DC9fxXc/css-logo.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "https://i.ibb.co/wJhJgvQ/javascript-logo.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "https://i.ibb.co/Lv3kMqF/React-Logo.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "https://i.ibb.co/K6j3tjW/node-js-logo.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "https://i.ibb.co/DY8n369/graphql-logo.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "https://i.ibb.co/4JCw7bH/mongodb-logo.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "https://i.ibb.co/PrYpP0n/figma-logo.png"
+  }
+]
