@@ -1,7 +1,7 @@
 
 # Some Important Thinks
 
-A Place To Find and See your dream Vehicle (Car, SUVs & Crossroad, Sports Car, Electric Car, Trucks) as your need.
+
 ## Deployment
 
 1. Tried to Depoly Firebase but it's not deployed : 
