@@ -27,6 +27,10 @@
     list-style: none;
 }
 
+.menuBtn{
+    display: none;
+}
+
 .menuitems a {
     font-size: 25px;
     color: var(--color-text);
