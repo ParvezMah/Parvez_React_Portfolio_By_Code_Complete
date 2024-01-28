@@ -11,7 +11,7 @@ Reach out if you’d like to learn more!</p>
 <a className={styles.contactBtn} href="mailto:parvezmahmudaa100@gmail.com">Contact Me</a>
             </div>
 
-            <img className={styles.heroImg} src="../../../assets/hero/heroImage.png" alt="" />
+            <img className={styles.heroImg} src="../../../assets/hero/Parvez Portfolio Picture1.jpg" alt="" />
             <div className={styles.topBlur}></div>
             <div className={styles.btmBlur}></div>
         </section>

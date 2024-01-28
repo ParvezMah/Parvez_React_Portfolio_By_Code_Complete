@@ -4,6 +4,7 @@ position: relative;
 display: flex;
 align-items: center;
 justify-content: space-between;
+gap: 20px;
 z-index: 1;
 margin: 5% 10%;
 }
@@ -45,9 +46,9 @@ margin: 5% 10%;
 }
 
 .heroImg{
-    width: 50%;
+    width: 450px;
     z-index: 1;
-
+    border-radius: 20%;
     animation: floating 3s ease-in-out  infinite;
 }
 
@@ -100,5 +101,8 @@ margin: 5% 10%;
     .content{
         align-items: center;
         text-align: center;
+    }
+    .heroImg{
+        width: 300px;
     }
 }
