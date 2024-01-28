@@ -1,8 +1,23 @@
-# Some New Things Explored
+Some Important Thinks
+A Place To Find and See your dream Vehicle (Car, SUVs & Crossroad, Sports Car, Electric Car, Trucks) as your need.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Deployment
+Tried to Depoly Firebase but it's not deployed :
 
-Currently, two official plugins are available:
+Live Link on surge.sh
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+http://parvezreactportfolio.surge.sh/
+
+Features
+Top Blur & Btm Blur at Hero section
+html smooth scrolling
+html {
+scroll-behavior: smooth;
+}
+Hero image using animation effect
+Awesome gradient overlay by CSS gradient
+ 1. background - content
+ 2. backgrount - gradient
+Light/dark mode toggle - not Added
+CRUD Operation Platform - Not Added
+Live Update - Not Added
