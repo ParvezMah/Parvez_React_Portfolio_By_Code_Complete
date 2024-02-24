@@ -1,13 +1,22 @@
 /* @import "../../Components/Navbar/Navbar.module.css" */
 
 .navbar {
-    position: relative;
+    position: fixed;
+    top: 10px;
+    width: 100%;
+    z-index: 2;
+    
+}
+
+.navbar > div{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 61px;
-    z-index: 2;
-    margin: 0 10%;
+    padding: 20px 30px;
+    margin: 0 9%;
+    background-color: #04152d;
+    border-radius: 50px;
+    box-shadow: 0 0 6px 2px white;
 }
 
 .title {
