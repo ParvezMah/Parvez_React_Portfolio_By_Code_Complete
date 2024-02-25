@@ -5,7 +5,7 @@ const Hero = () => {
         <section className={styles.container}>
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I am Parvez Mahamud</h1>
-                <p className={styles.description}>I’m a full-stack developer with 5 years
+                <p className={styles.description}>I am a full-stack developer with 5 years
 of experience using React and NodeJS.
 Reach out if you would like to learn more!</p>
             <div className={styles.BtnContainer}>

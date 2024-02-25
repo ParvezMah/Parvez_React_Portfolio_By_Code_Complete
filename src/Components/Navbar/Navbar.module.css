@@ -38,6 +38,7 @@
 
 .menuBtn{
     display: none;
+    
 }
 
 .menuitems a {
@@ -55,9 +56,15 @@
         align-items: flex-start;
     }
 
+    .navbar > div{
+        padding: 10px 14px;
+        border-radius: 5px;
+    }
+
     .menu{
         position: absolute;
         right: 0;
+        top: 12px;
         margin-right: 10%;
         flex-direction: column;
         align-items: flex-end;
@@ -68,6 +75,7 @@
     .menuBtn{
         display: block;
         cursor: pointer;
+        width: 33px;
     }
 
     .menuitems{
@@ -79,6 +87,7 @@
         background: rgb(60, 110, 203);
         background: linear-gradient(0deg, rgba(25, 5, 109, 0.3) 0%, rgb(84, 45, 241) 100%);
         padding: 24px 33px;
+        margin-top: 22px;
         box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
     }
 

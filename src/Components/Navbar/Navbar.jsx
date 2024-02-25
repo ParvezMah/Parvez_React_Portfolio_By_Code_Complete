@@ -14,9 +14,12 @@ const Navbar = () => {
                 <a className={styles.title} href="/">PARVEZ</a>  
                 <div className={styles.menu}>
                     <img className={styles.menuBtn} 
-                    src={menuopen ? "../../../assets/nav/closeIcon.png" : "../../../assets/nav/menuIcon.png"} 
-                    alt="" 
-                    onClick={()=>setMenuopen(!menuopen)}
+                        src={
+                            menuopen 
+                                ? "../../../assets/nav/closeIcon.png" 
+                                : "../../../assets/nav/menuIcon.png"} 
+                        alt="" 
+                        onClick={()=>setMenuopen(!menuopen)}
                     />
 
                     {/* <img className={styles.menuBtn} src={getImageUrl("../../../assets/nav/menuIcon.png")}/> */}
