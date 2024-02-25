@@ -15,7 +15,7 @@ const Experience = () => {
                         skills.map((skill, id) => {
                             return <div key={id} className={styles.skill}>
                                 <div className={styles.skillImgContainer}>
-                                    <img style={{ width: '75px' }}  src={skill.imageSrc} alt={skill.title} />
+                                    <img style={{ width: '75px' }} className={styles.imageSrc}  src={skill.imageSrc} alt={skill.title} />
                                 </div>
                                 <p>{skill.title}</p>
                             </div>

@@ -11,7 +11,7 @@ const Navbar = () => {
     return (
         <nav className={styles.navbar}>
             <div>
-                <a className={styles.title} href="/">Parvez Mahamud AA</a>  
+                <a className={styles.title} href="/">PARVEZ</a>  
                 <div className={styles.menu}>
                     <img className={styles.menuBtn} 
                     src={menuopen ? "../../../assets/nav/closeIcon.png" : "../../../assets/nav/menuIcon.png"} 

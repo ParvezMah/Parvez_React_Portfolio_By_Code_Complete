@@ -4,11 +4,14 @@ const Hero = () => {
     return (
         <section className={styles.container}>
             <div className={styles.content}>
-                <h1 className={styles.title}>Hi, I am Parvez</h1>
+                <h1 className={styles.title}>Hi, I am Parvez Mahamud</h1>
                 <p className={styles.description}>I’m a full-stack developer with 5 years
 of experience using React and NodeJS.
 Reach out if you would like to learn more!</p>
-<a className={styles.contactBtn} href="mailto:parvezmahmudaa100@gmail.com">Contact Me</a>
+            <div className={styles.BtnContainer}>
+                <a className={styles.contactBtn} href="mailto:parvezmahmudaa100@gmail.com">Contact Me</a>
+                <a className={styles.resumeBtn} href="../../../assets/resume/Parvez_Resume.pdf" download>Resume</a>
+            </div>
             </div>
 
             <img className={styles.heroImg} src="../../../assets/hero/Parvez Portfolio Picture1.jpg" alt="" />
